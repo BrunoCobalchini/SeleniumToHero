@@ -1,0 +1,3 @@
+AddSomeInfoTest,login,password,type,contact,message
+               ,TestingSE,testingSelenium,Phone,5541999999999,Your contact has been added!
+               ,TestingSE,testingSelenium,Phone,2211888888888,Your contact has been added!
